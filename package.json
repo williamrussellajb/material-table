@@ -6,7 +6,8 @@
   "types": "types/index.d.ts",
   "files": [
     "dist",
-    "types"
+    "types",
+    "dist/index.js"
   ],
   "babel": {
     "extends": "./configs/.babelrc"
